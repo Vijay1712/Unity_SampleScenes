@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skybox", "Assembly-CSharp.csproj", "{69C6EB73-E4D5-CA1F-9DE5-93332A2BD97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skybox", "Assembly-CSharp-Editor.csproj", "{F2E19773-3778-C3A3-E2B5-8E9CB09F1FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C6EB73-E4D5-CA1F-9DE5-93332A2BD97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C6EB73-E4D5-CA1F-9DE5-93332A2BD97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C6EB73-E4D5-CA1F-9DE5-93332A2BD97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C6EB73-E4D5-CA1F-9DE5-93332A2BD97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E19773-3778-C3A3-E2B5-8E9CB09F1FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E19773-3778-C3A3-E2B5-8E9CB09F1FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E19773-3778-C3A3-E2B5-8E9CB09F1FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E19773-3778-C3A3-E2B5-8E9CB09F1FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
